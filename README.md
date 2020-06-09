@@ -1,5 +1,5 @@
 # LovePuppy-Website
-A pet rental website template
+A pet rental website template.
 
 
 This is starter template for start-up business websites.
